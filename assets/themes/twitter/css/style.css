@@ -36,6 +36,18 @@ body {
   border: 0;
 }
 
+.topbar{
+    height: 40px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000;
+    overflow: visible;
+    margin: auto;
+    width: 860px;
+}
+
 
 /* tag_box ======================================================== */
 
@@ -67,5 +79,10 @@ body {
 	background:#57A957;
 	border:1px solid #4C964D;
 	color:#FFF;
+}
+
+img {
+    width:585px;
+    border:2px solid black;
 }
 	

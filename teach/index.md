@@ -7,7 +7,7 @@ title: Ms. Van Cleve
 This is a test. hiiii
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.tags.teacher %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>

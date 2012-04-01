@@ -1,7 +1,7 @@
 ---
 layout: post
 category : photos
-tags : [cats]
+tags : [cats, personal]
 ---
 {% include JB/setup %}
 

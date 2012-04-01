@@ -6,9 +6,9 @@ title: Julia Van Cleve
 
 <center markdown="1">
 
-[Teacher Blog](http://jmv.me/teach) <br />
+[Teacher Blog](/teach) <br />
 	
-[Personal Blog](http://jmv.me/blog) <br />
+[Personal Blog](/blog) <br />
 
 [Twitter](http://twitter.com/jmvx/) <br />
 
